@@ -28,9 +28,23 @@
 
 
 // 3. 
-function isCharAvowel(lab3) {
-  let vowels = ['a', 'e', 'i', 'o', 'u'];
-  return vowels.includes(lab3);
-  }
-  console.log(isCharAvowel('u'));
+// function isCharAvowel(lab3) {
+//   let vowels = ['a', 'e', 'i', 'o', 'u'];
+//   return vowels.includes(lab3);
+//   }
+//   console.log(isCharAvowel('u'));
+
+
+// 4.
+// Define a function, as a function expression, sumArraythat takes an array of numbers and returns the sum of those numbers.
+//  For example, sumArray([2, 4, 5]);would return 11.
+// function sumArray(lab4){
+//     let totalSum=0;
+//   for(let i=0; i< lab4.length; i++){
+//     totalSum += lab4[i];
+//     }
+//     return totalSum;
+//     }
+//     console.log(sumArray([2, 4, 5]));
+ 
 
