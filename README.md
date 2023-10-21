@@ -12,7 +12,7 @@ Define a function, as a function expression, maxOfThreethat takes three numbers 
 // lab 3
 Define a function, as a function declaration, isCharAVowelthat takes a character as an argument and returns true if it is a vowel, false otherwise.
 
-// lab 6
+// lab 4
 Define a function, as a function expression, sumArraythat takes an array of numbers and returns the sum of those numbers. For example, sumArray([2, 4, 5]);would return 11.
 
 
