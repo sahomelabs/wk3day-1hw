@@ -47,4 +47,16 @@
 //     }
 //     console.log(sumArray([2, 4, 5]));
  
+// 5. 
+// Define a function, as a function declaration, multiplyArraythat takes an array of numbers and returns the product those numbers.
+// For example, multiplyArray([2, 4, 5]);would return 40.
+
+function multiplyArray(lab5){
+  let product = 1;
+  for(let i=0; i < lab5.length; i++){
+    product *= lab5[i];
+    }
+    return product;
+    }
+    console.log(multiplyArray([2, 4, 5]));
 
